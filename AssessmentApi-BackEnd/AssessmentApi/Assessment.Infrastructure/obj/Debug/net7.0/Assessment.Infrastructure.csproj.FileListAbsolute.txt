@@ -1,0 +1,24 @@
+C:\Users\user\Desktop\Gemma Practice Projects\Practice\AssessmentApi\Assessment.Infrastructure\bin\Debug\net7.0\Assessment.Infrastructure.deps.json
+C:\Users\user\Desktop\Gemma Practice Projects\Practice\AssessmentApi\Assessment.Infrastructure\bin\Debug\net7.0\Assessment.Infrastructure.dll
+C:\Users\user\Desktop\Gemma Practice Projects\Practice\AssessmentApi\Assessment.Infrastructure\bin\Debug\net7.0\Assessment.Infrastructure.pdb
+C:\Users\user\Desktop\Gemma Practice Projects\Practice\AssessmentApi\Assessment.Infrastructure\obj\Debug\net7.0\Assessment.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Gemma Practice Projects\Practice\AssessmentApi\Assessment.Infrastructure\obj\Debug\net7.0\Assessment.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Gemma Practice Projects\Practice\AssessmentApi\Assessment.Infrastructure\obj\Debug\net7.0\Assessment.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Gemma Practice Projects\Practice\AssessmentApi\Assessment.Infrastructure\obj\Debug\net7.0\Assessment.Infrastructure.AssemblyInfo.cs
+C:\Users\user\Desktop\Gemma Practice Projects\Practice\AssessmentApi\Assessment.Infrastructure\obj\Debug\net7.0\Assessment.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Gemma Practice Projects\Practice\AssessmentApi\Assessment.Infrastructure\obj\Debug\net7.0\Assessment.Infrastructure.dll
+C:\Users\user\Desktop\Gemma Practice Projects\Practice\AssessmentApi\Assessment.Infrastructure\obj\Debug\net7.0\refint\Assessment.Infrastructure.dll
+C:\Users\user\Desktop\Gemma Practice Projects\Practice\AssessmentApi\Assessment.Infrastructure\obj\Debug\net7.0\Assessment.Infrastructure.pdb
+C:\Users\user\Desktop\Gemma Practice Projects\Practice\AssessmentApi\Assessment.Infrastructure\obj\Debug\net7.0\ref\Assessment.Infrastructure.dll
+C:\Users\user\Music\AssessmentApi\Assessment.Infrastructure\bin\Debug\net7.0\Assessment.Infrastructure.deps.json
+C:\Users\user\Music\AssessmentApi\Assessment.Infrastructure\bin\Debug\net7.0\Assessment.Infrastructure.dll
+C:\Users\user\Music\AssessmentApi\Assessment.Infrastructure\bin\Debug\net7.0\Assessment.Infrastructure.pdb
+C:\Users\user\Music\AssessmentApi\Assessment.Infrastructure\obj\Debug\net7.0\Assessment.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\user\Music\AssessmentApi\Assessment.Infrastructure\obj\Debug\net7.0\Assessment.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Music\AssessmentApi\Assessment.Infrastructure\obj\Debug\net7.0\Assessment.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\user\Music\AssessmentApi\Assessment.Infrastructure\obj\Debug\net7.0\Assessment.Infrastructure.AssemblyInfo.cs
+C:\Users\user\Music\AssessmentApi\Assessment.Infrastructure\obj\Debug\net7.0\Assessment.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\user\Music\AssessmentApi\Assessment.Infrastructure\obj\Debug\net7.0\Assessment.Infrastructure.dll
+C:\Users\user\Music\AssessmentApi\Assessment.Infrastructure\obj\Debug\net7.0\refint\Assessment.Infrastructure.dll
+C:\Users\user\Music\AssessmentApi\Assessment.Infrastructure\obj\Debug\net7.0\Assessment.Infrastructure.pdb
+C:\Users\user\Music\AssessmentApi\Assessment.Infrastructure\obj\Debug\net7.0\ref\Assessment.Infrastructure.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cslOAJu+X7mYSvlTKb4vOg0u/sEZa8ORaWww5DWyBAVa2bRZvVxzhUMQEhFWfy/JSVf1vxPljZKsLJr2lRq1ww==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Music\\AssessmentApi\\Assessment.Infrastructure\\Assessment.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
